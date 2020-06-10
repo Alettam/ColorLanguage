@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorLanguage</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="color">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+    <string name="text">Это текст для проверки переключения языка. Всем отличного дня!!!</string>
+</resources>

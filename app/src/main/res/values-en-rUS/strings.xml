@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorLanguage</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string name="text">This is the text for checking language switching. Have a great day!!!</string>
+</resources>
